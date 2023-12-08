@@ -1,1 +1,3 @@
 # Ollogum
+Kolonto
+Reake
